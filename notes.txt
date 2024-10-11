@@ -1,0 +1,14 @@
+username: admin
+password: 123456
+
+Catatan:
+
+Saya hanya membuat authentication login dengan menggunakan interaksi database MySQL. Stack yang digunakan adalah ExpressJS, Node.js, dan MySQL. API yang saya buat sebenarnya tidak terkait langsung dengan pengujian ini, karena kendala waktu dan tanggung jawab saya. Namun, jika Anda mengakses URL localhost:3001/api/documentation, Anda akan melihat dokumentasi API yang saya buat untuk Flourish. Dokumentasi ini saya buat secara publik hanya untuk metode GET, dan API tersebut dikembangkan menggunakan Lumen Laravel.
+
+readme:
+
+- Jalankan perintah: npm run start atau node server.js
+- Unggah database Anda ke MySQL dengan nama: db_cms
+- Silakan periksa di browser pada path: localhost:3001
+
+Thanks a lot before :)
